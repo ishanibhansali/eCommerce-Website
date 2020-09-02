@@ -4,7 +4,7 @@ This is a very simple e-commerce website built with Django.
 
 ## Quick demo
 
-[![alt text](https://github.com/ishanibhansali/eCommerce-Website/blob/master/Screen%20Recording%202020-08-31%20at%204.19.58%20PM.gif)]
+[![alt text](https://github.com/ishanibhansali/eCommerce-Website/blob/master/Demo.gif)]
 
 ---
 
